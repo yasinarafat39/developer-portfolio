@@ -24,3 +24,14 @@ section{
 .half-width p{
     text-align:justify;
 }
+
+.hire-me-button{
+    text-decoration:none;
+    background-image:linear-gradient(orange, tomato);
+    color:white;
+    padding: 10px 35px;
+    border-radius: 5px;
+    font-weight:700;
+    letter-spacing: 2px;
+    
+}
