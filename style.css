@@ -53,3 +53,30 @@ body{
     background-repeat:no-repeat;
     background-position: right 0% bottom 0%;
 }
+
+.experience-aria{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.experience-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+
+}
+.experience-header{
+    font-size: 30px;
+}
+
+#full-stack-web-developer{
+    border-left: 4px solid tomato;
+}
+
+#baby-web-developer{
+    border-left: 4px solid blue;
+}
